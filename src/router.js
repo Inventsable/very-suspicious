@@ -2,9 +2,10 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 
+
 Vue.use(Router)
 
-export default new Router({
+const router = new Router({
   mode: 'history',
   base: process.env.BASE_URL,
   routes: [
@@ -14,12 +15,40 @@ export default new Router({
       component: Home
     },
     {
-      path: '/about',
-      name: 'about',
+      path: '/keypad',
+      name: 'codes',
+      component: () => import('./components/touchpad.vue')
+    },
+    {
+      path: '/screen',
+      name: 'screen',
+      component: () => import('./views/screen.vue')
+    },
+    {
+      path: '/graph',
+      name: 'graph',
+      component: () => import('./views/graph.vue')
+    },
+    {
+      path: '/chat',
+      name: 'messages',
+      // beforeEnter: (to, from, next) => {
+      //   // ...
+
+      // },
+      component: () => import('./views/messages.vue')
+    },
+    {
+      path: '/link',
+      name: 'link',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
+      component: () => import('./views/About.vue')
     }
   ]
 })
+
+
+
+export default router

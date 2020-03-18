@@ -1,0 +1,3579 @@
+[
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "the cure",
+        "rating": 3,
+        "time": {
+            "seconds": 1551655983,
+            "nanoseconds": 695000000
+        },
+        "timeelapsed": 42253,
+        "timeend": "3/3 at 18:33 PM",
+        "timestart": "3/3 at 18:32 PM",
+        "tries": 22,
+        "uid": "TurbidPRIME",
+        "username": "The Cure"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "lime",
+            "red",
+            "amber",
+            "yellow",
+            "orange"
+        ],
+        "password": "Passwor",
+        "rating": 5,
+        "time": {
+            "seconds": 1551662079,
+            "nanoseconds": 634000000
+        },
+        "timeelapsed": 633125,
+        "timeend": "3/3 at 17:14 PM",
+        "timestart": "3/3 at 17:04 PM",
+        "tries": 3,
+        "uid": "SenselessRavenwing",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "artifice",
+        "rating": 4,
+        "time": {
+            "seconds": 1551657696,
+            "nanoseconds": 238000000
+        },
+        "timeelapsed": 96464,
+        "timeend": "3/3 at 16:01 PM",
+        "timestart": "3/3 at 15:59 PM",
+        "tries": 1,
+        "uid": "DryerSuan",
+        "username": "BlackFile"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663804,
+            "nanoseconds": 673000000
+        },
+        "timeelapsed": 830408,
+        "timeend": "3/3 at 20:43 PM",
+        "timestart": "3/3 at 20:29 PM",
+        "tries": 56,
+        "uid": "ConferredBanshee",
+        "username": "ConferredBanshee"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "OVERRIDE",
+        "rating": 1,
+        "time": {
+            "seconds": 1551652808,
+            "nanoseconds": 655000000
+        },
+        "timeelapsed": 156640,
+        "timeend": "3/4 at 06:40 AM",
+        "timestart": "3/4 at 06:37 AM",
+        "tries": 20,
+        "uid": "StabileApprentice",
+        "username": "                                       "
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551661221,
+            "nanoseconds": 754000000
+        },
+        "timeelapsed": 39718,
+        "timeend": "3/3 at 17:00 PM",
+        "timestart": "3/3 at 16:59 PM",
+        "tries": 2,
+        "uid": "BlushRavenwing",
+        "username": "2286_jettCrYsiander"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "        ",
+        "rating": 0,
+        "time": {
+            "seconds": 1551658694,
+            "nanoseconds": 637000000
+        },
+        "timeelapsed": 77957,
+        "timeend": "3/3 at 19:18 PM",
+        "timestart": "3/3 at 19:16 PM",
+        "tries": 38,
+        "uid": "RedOrangePalyopama",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/31D476D5-3D05-4910-8FAE-C2645D5AC554.thumb.jpeg.ae55e2f8ebdd692972f2238af205af66.jpeg",
+        "keyList": [],
+        "password": "Valucre",
+        "rating": 5,
+        "time": {
+            "seconds": 1551649876,
+            "nanoseconds": 5000000
+        },
+        "timeelapsed": 320444,
+        "timeend": "3/3 at 14:51 PM",
+        "timestart": "3/3 at 14:45 PM",
+        "tries": 1,
+        "uid": "GrannySmithAppleSaevion",
+        "username": "AngryCacti"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime",
+            "amber"
+        ],
+        "password": "asdfasdf",
+        "rating": 0,
+        "time": {
+            "seconds": 1551665185,
+            "nanoseconds": 377000000
+        },
+        "timeelapsed": 1040119,
+        "timeend": "3/3 at 18:06 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 2,
+        "uid": "UncleansedRakshasa",
+        "username": "Grand Mainframe"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "lime",
+            "red",
+            "amber"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551661614,
+            "nanoseconds": 601000000
+        },
+        "timeelapsed": 168091,
+        "timeend": "3/3 at 17:06 PM",
+        "timestart": "3/3 at 17:04 PM",
+        "tries": 1,
+        "uid": "ForcefulAlphaZombie",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Odin",
+        "rating": 3,
+        "time": {
+            "seconds": 1551662910,
+            "nanoseconds": 776000000
+        },
+        "timeelapsed": 75979,
+        "timeend": "3/3 at 20:28 PM",
+        "timestart": "3/3 at 20:27 PM",
+        "tries": 3,
+        "uid": "OrangeYellowDreamCrawler",
+        "username": "No one"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "beaurega",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663576,
+            "nanoseconds": 656000000
+        },
+        "timeelapsed": 353800,
+        "timeend": "3/3 at 20:39 PM",
+        "timestart": "3/3 at 20:33 PM",
+        "tries": 6,
+        "uid": "MulberryGreatJaguar",
+        "username": "crumblylandshark"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "red",
+            "yellow",
+            "lime",
+            "orange"
+        ],
+        "password": "passwor",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663451,
+            "nanoseconds": 793000000
+        },
+        "timeelapsed": 356617,
+        "timeend": "3/3 at 17:37 PM",
+        "timestart": "3/3 at 17:31 PM",
+        "tries": 1,
+        "uid": "WhiteFairy",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "red",
+            "lime",
+            "yellow",
+            "amber",
+            "blue"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664071,
+            "nanoseconds": 523000000
+        },
+        "timeelapsed": 463844,
+        "timeend": "3/3 at 17:47 PM",
+        "timestart": "3/3 at 17:40 PM",
+        "tries": 1,
+        "uid": "BlueVioletZkrizkas",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "red"
+        ],
+        "password": "Masonicr",
+        "rating": 5,
+        "time": {
+            "seconds": 1551658265,
+            "nanoseconds": 23000000
+        },
+        "timeelapsed": 68434,
+        "timeend": "3/3 at 16:11 PM",
+        "timestart": "3/3 at 16:09 PM",
+        "tries": 5,
+        "uid": "PeachSovereign",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "xaroc",
+        "rating": 2,
+        "time": {
+            "seconds": 1551663501,
+            "nanoseconds": 302000000
+        },
+        "timeelapsed": 278445,
+        "timeend": "3/3 at 20:38 PM",
+        "timestart": "3/3 at 20:33 PM",
+        "tries": 6,
+        "uid": "ShadowHeavenwingButterfly",
+        "username": "identity"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "BEAVERPY",
+        "rating": 5,
+        "time": {
+            "seconds": 1551653968,
+            "nanoseconds": 631000000
+        },
+        "timeelapsed": 267166,
+        "timeend": "3/3 at 17:59 PM",
+        "timestart": "3/3 at 17:55 PM",
+        "tries": 2,
+        "uid": "DenimMatreyan",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Iamthecu",
+        "rating": 3,
+        "time": {
+            "seconds": 1551653919,
+            "nanoseconds": 475000000
+        },
+        "timeelapsed": 218010,
+        "timeend": "3/3 at 17:58 PM",
+        "timestart": "3/3 at 17:55 PM",
+        "tries": 2,
+        "uid": "BeaverPyreflies",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551664190,
+            "nanoseconds": 95000000
+        },
+        "timeelapsed": 44837,
+        "timeend": "3/3 at 17:49 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 1,
+        "uid": "LithoidBeefly",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "85000000",
+        "rating": 0,
+        "time": {
+            "seconds": 1551658216,
+            "nanoseconds": 997000000
+        },
+        "timeelapsed": 170196,
+        "timeend": "3/3 at 19:10 PM",
+        "timestart": "3/3 at 19:07 PM",
+        "tries": 34,
+        "uid": "PackagedWintersbreathRose",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "identity",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663414,
+            "nanoseconds": 235000000
+        },
+        "timeelapsed": 191379,
+        "timeend": "3/3 at 20:36 PM",
+        "timestart": "3/3 at 20:33 PM",
+        "tries": 6,
+        "uid": "LoftyUmbrian",
+        "username": "very suspicious"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "limekey",
+        "rating": 0,
+        "time": {
+            "seconds": 1551663118,
+            "nanoseconds": 202000000
+        },
+        "timeelapsed": 143937,
+        "timeend": "3/3 at 20:31 PM",
+        "timestart": "3/3 at 20:29 PM",
+        "tries": 54,
+        "uid": "TritestSaloth",
+        "username": "SEED"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "red",
+            "yellow",
+            "purple"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658718,
+            "nanoseconds": 445000000
+        },
+        "timeelapsed": 199429,
+        "timeend": "3/3 at 16:18 PM",
+        "timestart": "3/3 at 16:15 PM",
+        "tries": 2,
+        "uid": "UgsomeOrolindari",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "orange",
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551660536,
+            "nanoseconds": 776000000
+        },
+        "timeelapsed": 2137096,
+        "timeend": "3/3 at 19:48 PM",
+        "timestart": "3/3 at 19:13 PM",
+        "tries": 12,
+        "uid": "ShockingPinkSpy",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "Aaa",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664971,
+            "nanoseconds": 7000000
+        },
+        "timeelapsed": 825749,
+        "timeend": "3/3 at 18:02 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 2,
+        "uid": "UngladBasilisk",
+        "username": "SKOLL7331"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "orange",
+            "red"
+        ],
+        "password": "55555555",
+        "rating": 5,
+        "time": {
+            "seconds": 1551652903,
+            "nanoseconds": 626000000
+        },
+        "timeelapsed": 285307,
+        "timeend": "3/3 at 14:41 PM",
+        "timestart": "3/3 at 14:36 PM",
+        "tries": 14,
+        "uid": "DeceasedZkrizkas",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [],
+        "password": "blink",
+        "rating": 3,
+        "time": {
+            "seconds": 1551659051,
+            "nanoseconds": 620000000
+        },
+        "timeelapsed": 796620,
+        "timeend": "3/3 at 19:24 PM",
+        "timestart": "3/3 at 19:10 PM",
+        "tries": 10,
+        "uid": "MelicEmberstoneRose",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "vielle",
+        "rating": 2,
+        "time": {
+            "seconds": 1551652912,
+            "nanoseconds": 806000000
+        },
+        "timeelapsed": 43433,
+        "timeend": "3/4 at 06:41 AM",
+        "timestart": "3/4 at 06:41 AM",
+        "tries": 21,
+        "uid": "UndrownedWintersbreathRose",
+        "username": "hello"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "red"
+        ],
+        "password": "seed",
+        "rating": 1,
+        "time": {
+            "seconds": 1551657903,
+            "nanoseconds": 373000000
+        },
+        "timeelapsed": 902202,
+        "timeend": "3/3 at 19:05 PM",
+        "timestart": "3/3 at 18:50 PM",
+        "tries": 7,
+        "uid": "FlamingPRIME",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "amber",
+            "grey"
+        ],
+        "password": "Zeitgeis",
+        "rating": 0,
+        "time": {
+            "seconds": 1551657610,
+            "nanoseconds": 738000000
+        },
+        "timeelapsed": 89037,
+        "timeend": "3/3 at 19:00 PM",
+        "timestart": "3/3 at 18:58 PM",
+        "tries": 27,
+        "uid": "SoftishRedBloodMoonChildren",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow",
+            "blue"
+        ],
+        "password": "lime key",
+        "rating": 5,
+        "time": {
+            "seconds": 1551665918,
+            "nanoseconds": 199000000
+        },
+        "timeelapsed": 1635650,
+        "timeend": "3/3 at 21:18 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 14,
+        "uid": "BlueGrayVeldamari",
+        "username": "DirtyLastChance"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "zengi",
+        "rating": 3,
+        "time": {
+            "seconds": 1551664011,
+            "nanoseconds": 347000000
+        },
+        "timeelapsed": 132914,
+        "timeend": "3/3 at 20:46 PM",
+        "timestart": "3/3 at 20:44 PM",
+        "tries": 9,
+        "uid": "UnstockedSniper",
+        "username": "wade"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551658476,
+            "nanoseconds": 975000000
+        },
+        "timeelapsed": 785287,
+        "timeend": "3/3 at 16:14 PM",
+        "timestart": "3/3 at 16:01 PM",
+        "tries": 57,
+        "uid": "ScirrhousZkrizkas",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "YELLOW",
+        "rating": 1,
+        "time": {
+            "seconds": 1551651890,
+            "nanoseconds": 498000000
+        },
+        "timeelapsed": 137173,
+        "timeend": "3/3 at 14:24 PM",
+        "timestart": "3/3 at 14:22 PM",
+        "tries": 3,
+        "uid": "SalmonSpectralDragon",
+        "username": "YellowVeldamari"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "orange"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551659603,
+            "nanoseconds": 314000000
+        },
+        "timeelapsed": 1203634,
+        "timeend": "3/3 at 19:33 PM",
+        "timestart": "3/3 at 19:13 PM",
+        "tries": 11,
+        "uid": "BiggestCardinal",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [],
+        "password": "zengi",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656650,
+            "nanoseconds": 661000000
+        },
+        "timeelapsed": 697812,
+        "timeend": "3/3 at 18:44 PM",
+        "timestart": "3/3 at 18:32 PM",
+        "tries": 1,
+        "uid": "MountainMeadowChhittenMagnus",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "amber",
+            "grey",
+            "yellow",
+            "lime"
+        ],
+        "password": "asdadsf",
+        "rating": 3,
+        "time": {
+            "seconds": 1551665779,
+            "nanoseconds": 273000000
+        },
+        "timeelapsed": 314563,
+        "timeend": "3/3 at 18:16 PM",
+        "timestart": "3/3 at 18:11 PM",
+        "tries": 2,
+        "uid": "CervidValhatienScarab",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "szdsfasd",
+        "rating": 3,
+        "time": {
+            "seconds": 1551664422,
+            "nanoseconds": 465000000
+        },
+        "timeelapsed": 277207,
+        "timeend": "3/3 at 17:53 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 1,
+        "uid": "NescientKharn",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [],
+        "password": "12345678",
+        "rating": 2,
+        "time": {
+            "seconds": 1551665757,
+            "nanoseconds": 847000000
+        },
+        "timeelapsed": 896763,
+        "timeend": "3/3 at 21:15 PM",
+        "timestart": "3/3 at 21:01 PM",
+        "tries": 19,
+        "uid": "OrangeMinotaurus",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "LOCATION",
+        "rating": 3,
+        "time": {
+            "seconds": 1551654732,
+            "nanoseconds": 464000000
+        },
+        "timeelapsed": 792171,
+        "timeend": "3/3 at 15:12 PM",
+        "timestart": "3/3 at 14:59 PM",
+        "tries": 30,
+        "uid": "LearnedIrisEye",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2017_06/jose-rizal-is-not-a-hero.thumb.jpg.4e4b9c35deda6736d2c78e2e88a485ef.jpg",
+        "keyList": [
+            "orange"
+        ],
+        "password": "obelus",
+        "rating": 5,
+        "time": {
+            "seconds": 1551665038,
+            "nanoseconds": 110000000
+        },
+        "timeelapsed": 428500,
+        "timeend": "3/4 at 10:03 AM",
+        "timestart": "3/4 at 09:56 AM",
+        "tries": 13,
+        "uid": "MongerNightmare",
+        "username": "Csl"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "literal",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664507,
+            "nanoseconds": 817000000
+        },
+        "timeelapsed": 225268,
+        "timeend": "3/3 at 20:55 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 12,
+        "uid": "FrontalFlameleaf",
+        "username": "Hidden"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [],
+        "password": "findme",
+        "rating": 5,
+        "time": {
+            "seconds": 1551658001,
+            "nanoseconds": 352000000
+        },
+        "timeelapsed": 86770,
+        "timeend": "3/3 at 19:06 PM",
+        "timestart": "3/3 at 19:05 PM",
+        "tries": 8,
+        "uid": "WakefulTorchSprite",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551664604,
+            "nanoseconds": 83000000
+        },
+        "timeelapsed": 458824,
+        "timeend": "3/3 at 17:56 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 1,
+        "uid": "MagicMintUmbralBass",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551661882,
+            "nanoseconds": 989000000
+        },
+        "timeelapsed": 2162303,
+        "timeend": "3/3 at 20:11 PM",
+        "timestart": "3/3 at 19:35 PM",
+        "tries": 50,
+        "uid": "GreenBodySnatcher",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "thecure",
+        "rating": 1,
+        "time": {
+            "seconds": 1551654082,
+            "nanoseconds": 738000000
+        },
+        "timeelapsed": 381273,
+        "timeend": "3/3 at 18:01 PM",
+        "timestart": "3/3 at 17:55 PM",
+        "tries": 2,
+        "uid": "SepiaSpectralDragon",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Zengi",
+        "rating": 1,
+        "time": {
+            "seconds": 1551649821,
+            "nanoseconds": 604000000
+        },
+        "timeelapsed": 266043,
+        "timeend": "3/3 at 14:50 PM",
+        "timestart": "3/3 at 14:45 PM",
+        "tries": 1,
+        "uid": "RazzleDazzleRoseMaash",
+        "username": "Grand Mainframe"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime",
+            "purple"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551666194,
+            "nanoseconds": 280000000
+        },
+        "timeelapsed": 717683,
+        "timeend": "3/4 at 10:23 AM",
+        "timestart": "3/4 at 10:11 AM",
+        "tries": 3,
+        "uid": "HotterLaRuta",
+        "username": "HotterLaRuta"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663273,
+            "nanoseconds": 680000000
+        },
+        "timeelapsed": 178505,
+        "timeend": "3/3 at 17:34 PM",
+        "timestart": "3/3 at 17:31 PM",
+        "tries": 1,
+        "uid": "MinionWitchKing",
+        "username": "MinionWitchKing"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "purple",
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 2,
+        "time": {
+            "seconds": 1551655996,
+            "nanoseconds": 236000000
+        },
+        "timeelapsed": 1045438,
+        "timeend": "3/3 at 15:33 PM",
+        "timestart": "3/3 at 15:15 PM",
+        "tries": 43,
+        "uid": "SalmonVeldamari",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2017_06/jose-rizal-is-not-a-hero.thumb.jpg.4e4b9c35deda6736d2c78e2e88a485ef.jpg",
+        "keyList": [],
+        "password": "Fluyo16",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663421,
+            "nanoseconds": 778000000
+        },
+        "timeelapsed": 173056,
+        "timeend": "3/4 at 09:37 AM",
+        "timestart": "3/4 at 09:34 AM",
+        "tries": 2,
+        "uid": "OrchidMontagnaRossa",
+        "username": "Csl"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "purple"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551655000,
+            "nanoseconds": 225000000
+        },
+        "timeelapsed": 49426,
+        "timeend": "3/3 at 15:16 PM",
+        "timestart": "3/3 at 15:15 PM",
+        "tries": 31,
+        "uid": "LobateMimic",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime",
+            "grey"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551665836,
+            "nanoseconds": 368000000
+        },
+        "timeelapsed": 386941,
+        "timeend": "3/3 at 21:17 PM",
+        "timestart": "3/3 at 21:10 PM",
+        "tries": 8,
+        "uid": "ChordalRanger",
+        "username": "ChordalRanger"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "asdasdas",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658422,
+            "nanoseconds": 973000000
+        },
+        "timeelapsed": 97660,
+        "timeend": "3/3 at 16:13 PM",
+        "timestart": "3/3 at 16:12 PM",
+        "tries": 6,
+        "uid": "WoodlessArazuraHorse",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "lime",
+            "red",
+            "amber",
+            "yellow",
+            "orange"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551661885,
+            "nanoseconds": 242000000
+        },
+        "timeelapsed": 438732,
+        "timeend": "3/3 at 17:11 PM",
+        "timestart": "3/3 at 17:04 PM",
+        "tries": 2,
+        "uid": "GuidelessCometPerson",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "red"
+        ],
+        "password": "ESCAPE",
+        "rating": 3,
+        "time": {
+            "seconds": 1551654321,
+            "nanoseconds": 146000000
+        },
+        "timeelapsed": 68184,
+        "timeend": "3/3 at 15:05 PM",
+        "timestart": "3/3 at 15:04 PM",
+        "tries": 2,
+        "uid": "AtomicTangerineHalfling",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "GENESARI",
+        "rating": 3,
+        "time": {
+            "seconds": 1551655473,
+            "nanoseconds": 654000000
+        },
+        "timeelapsed": 307538,
+        "timeend": "3/4 at 07:24 AM",
+        "timestart": "3/4 at 07:19 AM",
+        "tries": 31,
+        "uid": "FuzzyWuzzyPlainsProwler",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "Zeitgeis",
+        "rating": 3,
+        "time": {
+            "seconds": 1551664365,
+            "nanoseconds": 626000000
+        },
+        "timeelapsed": 220368,
+        "timeend": "3/3 at 17:52 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 1,
+        "uid": "ElectricLimeVarunaRose",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "aaaaaaaa",
+        "rating": 4,
+        "time": {
+            "seconds": 1551659782,
+            "nanoseconds": 549000000
+        },
+        "timeelapsed": 313874,
+        "timeend": "3/3 at 16:36 PM",
+        "timestart": "3/3 at 16:31 PM",
+        "tries": 5,
+        "uid": "CeriseLaRuta",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "amber",
+            "grey"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551664615,
+            "nanoseconds": 751000000
+        },
+        "timeelapsed": 83101,
+        "timeend": "3/3 at 18:56 PM",
+        "timestart": "3/3 at 18:55 PM",
+        "tries": 74,
+        "uid": "ScratchlessArazuraHorse",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551660248,
+            "nanoseconds": 877000000
+        },
+        "timeelapsed": 528189,
+        "timeend": "3/3 at 19:44 PM",
+        "timestart": "3/3 at 19:35 PM",
+        "tries": 49,
+        "uid": "SlimsyWoodlandCrawler",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Supernal",
+        "rating": 1,
+        "time": {
+            "seconds": 1551651209,
+            "nanoseconds": 206000000
+        },
+        "timeelapsed": 394826,
+        "timeend": "3/3 at 15:13 PM",
+        "timestart": "3/3 at 15:06 PM",
+        "tries": 6,
+        "uid": "PurplePizzazzLunsilth",
+        "username": "Eustace Monroe"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Witchkin",
+        "rating": 2,
+        "time": {
+            "seconds": 1551654425,
+            "nanoseconds": 836000000
+        },
+        "timeelapsed": 109364,
+        "timeend": "3/3 at 18:07 PM",
+        "timestart": "3/3 at 18:05 PM",
+        "tries": 5,
+        "uid": "TortileCometPerson",
+        "username": "Vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2017_06/jose-rizal-is-not-a-hero.thumb.jpg.4e4b9c35deda6736d2c78e2e88a485ef.jpg",
+        "keyList": [],
+        "password": "diamondt",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663317,
+            "nanoseconds": 565000000
+        },
+        "timeelapsed": 68843,
+        "timeend": "3/4 at 09:35 AM",
+        "timestart": "3/4 at 09:34 AM",
+        "tries": 2,
+        "uid": "BananaManiaWoodlandCrawler",
+        "username": "Csl"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "LOCATION",
+        "rating": 5,
+        "time": {
+            "seconds": 1551659439,
+            "nanoseconds": 413000000
+        },
+        "timeelapsed": 114295,
+        "timeend": "3/3 at 16:30 PM",
+        "timestart": "3/3 at 16:28 PM",
+        "tries": 8,
+        "uid": "InchwormBanjari",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [],
+        "password": "AdDU2201",
+        "rating": 5,
+        "time": {
+            "seconds": 1551649296,
+            "nanoseconds": 872000000
+        },
+        "timeelapsed": 172461,
+        "timeend": "3/4 at 05:41 AM",
+        "timestart": "3/4 at 05:38 AM",
+        "tries": 1,
+        "uid": "ChoralNightmare",
+        "username": "vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "orange",
+            "red"
+        ],
+        "password": "aaaaaaaa",
+        "rating": 4,
+        "time": {
+            "seconds": 1551653105,
+            "nanoseconds": 566000000
+        },
+        "timeelapsed": 487248,
+        "timeend": "3/3 at 14:45 PM",
+        "timestart": "3/3 at 14:36 PM",
+        "tries": 17,
+        "uid": "PacificBlueDwarf",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "red",
+            "lime"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663717,
+            "nanoseconds": 778000000
+        },
+        "timeelapsed": 110099,
+        "timeend": "3/3 at 17:41 PM",
+        "timestart": "3/3 at 17:40 PM",
+        "tries": 1,
+        "uid": "UnfiredVampyr",
+        "username": "UnfiredVampyr"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551661609,
+            "nanoseconds": 689000000
+        },
+        "timeelapsed": 1889002,
+        "timeend": "3/3 at 20:06 PM",
+        "timestart": "3/3 at 19:35 PM",
+        "tries": 50,
+        "uid": "BlueVioletRaake",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime"
+        ],
+        "password": "wrapper",
+        "rating": 1,
+        "time": {
+            "seconds": 1551664568,
+            "nanoseconds": 470000000
+        },
+        "timeelapsed": 1594205,
+        "timeend": "3/3 at 20:56 PM",
+        "timestart": "3/3 at 20:29 PM",
+        "tries": null,
+        "uid": "WhiteWastelandBorderPatrol",
+        "username": "WhiteWastlelandBorderPatrol"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "ASDASDAS",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658915,
+            "nanoseconds": 844000000
+        },
+        "timeelapsed": 590532,
+        "timeend": "3/3 at 16:21 PM",
+        "timestart": "3/3 at 16:12 PM",
+        "tries": 6,
+        "uid": "MulberryEnrele",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Ataraxy",
+        "rating": 0,
+        "time": {
+            "seconds": 1551658389,
+            "nanoseconds": 126000000
+        },
+        "timeelapsed": 131002,
+        "timeend": "3/3 at 19:13 PM",
+        "timestart": "3/3 at 19:10 PM",
+        "tries": 36,
+        "uid": "LongwiseCliffManticore",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "19802557",
+        "rating": 3,
+        "time": {
+            "seconds": 1551651831,
+            "nanoseconds": 424000000
+        },
+        "timeelapsed": 78099,
+        "timeend": "3/3 at 14:23 PM",
+        "timestart": "3/3 at 14:22 PM",
+        "tries": 3,
+        "uid": "YellowVeldamari",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "inactivi",
+        "rating": 5,
+        "time": {
+            "seconds": 1551652461,
+            "nanoseconds": 750000000
+        },
+        "timeelapsed": 256282,
+        "timeend": "3/4 at 06:34 AM",
+        "timestart": "3/4 at 06:30 AM",
+        "tries": 16,
+        "uid": "DesertSandMatreyan",
+        "username": "FOGLESSCOMETPERSON"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "red",
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663214,
+            "nanoseconds": 661000000
+        },
+        "timeelapsed": 119486,
+        "timeend": "3/3 at 17:33 PM",
+        "timestart": "3/3 at 17:31 PM",
+        "tries": 1,
+        "uid": "FaucalArchbishop",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Witchkin",
+        "rating": 3,
+        "time": {
+            "seconds": 1551654547,
+            "nanoseconds": 637000000
+        },
+        "timeelapsed": 65488,
+        "timeend": "3/3 at 18:09 PM",
+        "timestart": "3/3 at 18:08 PM",
+        "tries": 6,
+        "uid": "GrayFrostSprite",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Bobbbbbb",
+        "rating": 1,
+        "time": {
+            "seconds": 1551650841,
+            "nanoseconds": 296000000
+        },
+        "timeelapsed": 74919,
+        "timeend": "3/3 at 17:07 PM",
+        "timestart": "3/3 at 17:06 PM",
+        "tries": 1,
+        "uid": "SilverSkincrawler",
+        "username": "Bob"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "reported",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664944,
+            "nanoseconds": 139000000
+        },
+        "timeelapsed": 661590,
+        "timeend": "3/3 at 21:02 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 13,
+        "uid": "GoldMinotaurus",
+        "username": "dwyanewadestupidcasper"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551660701,
+            "nanoseconds": 625000000
+        },
+        "timeelapsed": 31667,
+        "timeend": "3/3 at 16:51 PM",
+        "timestart": "3/3 at 16:51 PM",
+        "tries": 16,
+        "uid": "CrustlessWitchKing",
+        "username": "WisteriaFairy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow",
+            "blue",
+            "purple"
+        ],
+        "password": "????????",
+        "rating": 5,
+        "time": {
+            "seconds": 1551666051,
+            "nanoseconds": 870000000
+        },
+        "timeelapsed": 1769321,
+        "timeend": "3/3 at 21:20 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 14,
+        "uid": "BananaManiaCelestialCat",
+        "username": "WhiteCasper"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/1400x1400_8108949.thumb.jpg.e8c0fdd936d1e9a83b63f1027fa3b7c6.jpg",
+        "keyList": [
+            "purple"
+        ],
+        "password": "hello",
+        "rating": 3,
+        "time": {
+            "seconds": 1551652108,
+            "nanoseconds": 68000000
+        },
+        "timeelapsed": 145916,
+        "timeend": "3/3 at 15:28 PM",
+        "timestart": "3/3 at 15:26 PM",
+        "tries": 22,
+        "uid": "NodoseShadowBeast",
+        "username": "Die Shize"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "purple",
+            "amber"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551664982,
+            "nanoseconds": 57000000
+        },
+        "timeelapsed": 185710,
+        "timeend": "3/3 at 21:03 PM",
+        "timestart": "3/3 at 20:59 PM",
+        "tries": 5,
+        "uid": "CadetBlueRadioactiveWyrm",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Hellgate",
+        "rating": 5,
+        "time": {
+            "seconds": 1551651164,
+            "nanoseconds": 530000000
+        },
+        "timeelapsed": 350149,
+        "timeend": "3/3 at 15:12 PM",
+        "timestart": "3/3 at 15:06 PM",
+        "tries": 6,
+        "uid": "MelonBlackHeartMirror",
+        "username": "Your mom"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue"
+        ],
+        "password": "OBELUS",
+        "rating": 0,
+        "time": {
+            "seconds": 1551659484,
+            "nanoseconds": 400000000
+        },
+        "timeelapsed": 55134,
+        "timeend": "3/3 at 19:31 PM",
+        "timestart": "3/3 at 19:30 PM",
+        "tries": 44,
+        "uid": "EncasedThornback",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551662272,
+            "nanoseconds": 922000000
+        },
+        "timeelapsed": 83617,
+        "timeend": "3/3 at 20:17 PM",
+        "timestart": "3/3 at 20:16 PM",
+        "tries": 52,
+        "uid": "LintyTorchSprite",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551662862,
+            "nanoseconds": 349000000
+        },
+        "timeelapsed": 673045,
+        "timeend": "3/3 at 20:27 PM",
+        "timestart": "3/3 at 20:16 PM",
+        "tries": 53,
+        "uid": "WildBlueYonderFuricorn",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Thebomb",
+        "rating": 5,
+        "time": {
+            "seconds": 1551654030,
+            "nanoseconds": 287000000
+        },
+        "timeelapsed": 328822,
+        "timeend": "3/3 at 18:00 PM",
+        "timestart": "3/3 at 17:55 PM",
+        "tries": 2,
+        "uid": "FuzzyWuzzyRadioactiveWyrm",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "asdfggg",
+        "rating": 5,
+        "time": {
+            "seconds": 1551658774,
+            "nanoseconds": 795000000
+        },
+        "timeelapsed": 449483,
+        "timeend": "3/3 at 16:19 PM",
+        "timestart": "3/3 at 16:12 PM",
+        "tries": 6,
+        "uid": "PurplePizzazzApprentice",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664533,
+            "nanoseconds": 909000000
+        },
+        "timeelapsed": 251360,
+        "timeend": "3/3 at 20:55 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 12,
+        "uid": "CaribbeanGreenGashodokuro",
+        "username": "literal"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [],
+        "password": "AdDU2201",
+        "rating": 5,
+        "time": {
+            "seconds": 1551651483,
+            "nanoseconds": 652000000
+        },
+        "timeelapsed": 55744,
+        "timeend": "3/4 at 06:18 AM",
+        "timestart": "3/4 at 06:17 AM",
+        "tries": 3,
+        "uid": "VillousYuuja",
+        "username": "vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "orange",
+            "yellow"
+        ],
+        "password": "input102",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663831,
+            "nanoseconds": 380000000
+        },
+        "timeelapsed": 5431700,
+        "timeend": "3/3 at 20:43 PM",
+        "timestart": "3/3 at 19:13 PM",
+        "tries": 14,
+        "uid": "YellowGreenOrisianShadowWolf",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2017_06/jose-rizal-is-not-a-hero.thumb.jpg.4e4b9c35deda6736d2c78e2e88a485ef.jpg",
+        "keyList": [
+            "orange"
+        ],
+        "password": "hellloth",
+        "rating": 3,
+        "time": {
+            "seconds": 1551650979,
+            "nanoseconds": 852000000
+        },
+        "timeelapsed": 32677,
+        "timeend": "3/3 at 15:09 PM",
+        "timestart": "3/3 at 15:09 PM",
+        "tries": 11,
+        "uid": "SeaGreenFuricorn",
+        "username": "Csl"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "mainfram",
+        "rating": 5,
+        "time": {
+            "seconds": 1551659129,
+            "nanoseconds": 876000000
+        },
+        "timeelapsed": 38145,
+        "timeend": "3/3 at 16:25 PM",
+        "timestart": "3/3 at 16:24 PM",
+        "tries": 4,
+        "uid": "BlastedHeavenwingButterfly",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/profile/photo-thumb-224.gif",
+        "keyList": [],
+        "password": "S1naloa!",
+        "rating": 5,
+        "time": {
+            "seconds": 1551655984,
+            "nanoseconds": 416000000
+        },
+        "timeelapsed": 71454,
+        "timeend": "3/3 at 18:33 PM",
+        "timestart": "3/3 at 18:31 PM",
+        "tries": 1,
+        "uid": "ProstrateStormSprite",
+        "username": "Aleksei"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551662932,
+            "nanoseconds": 852000000
+        },
+        "timeelapsed": 743547,
+        "timeend": "3/3 at 20:28 PM",
+        "timestart": "3/3 at 20:16 PM",
+        "tries": 53,
+        "uid": "UtileTwistling",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/Cowboy.thumb.jpg.54fa9a87dc5ca49e51f64ade2bd63914.jpg",
+        "keyList": [],
+        "password": "Popcorns",
+        "rating": 1,
+        "time": {
+            "seconds": 1551649470,
+            "nanoseconds": 670000000
+        },
+        "timeelapsed": 93753,
+        "timeend": "3/3 at 16:44 PM",
+        "timestart": "3/3 at 16:42 PM",
+        "tries": 1,
+        "uid": "BlueBellDesertWolf",
+        "username": "Wade"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow",
+            "blue"
+        ],
+        "password": "lime key",
+        "rating": 5,
+        "time": {
+            "seconds": 1551665533,
+            "nanoseconds": 746000000
+        },
+        "timeelapsed": 1251197,
+        "timeend": "3/3 at 21:12 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 13,
+        "uid": "AvidNPC",
+        "username": "WhiteWadeTerrenus"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "red"
+        ],
+        "password": "Witch",
+        "rating": 3,
+        "time": {
+            "seconds": 1551654798,
+            "nanoseconds": 198000000
+        },
+        "timeelapsed": 316049,
+        "timeend": "3/3 at 18:13 PM",
+        "timestart": "3/3 at 18:08 PM",
+        "tries": 8,
+        "uid": "CurelessValhatienScarab",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "OBELUS",
+        "rating": 4,
+        "time": {
+            "seconds": 1551655595,
+            "nanoseconds": 283000000
+        },
+        "timeelapsed": 50779,
+        "timeend": "3/3 at 18:26 PM",
+        "timestart": "3/3 at 18:25 PM",
+        "tries": 19,
+        "uid": "OliveGreenMegaLobster",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551666004,
+            "nanoseconds": 582000000
+        },
+        "timeelapsed": 527985,
+        "timeend": "3/4 at 10:20 AM",
+        "timestart": "3/4 at 10:11 AM",
+        "tries": 1,
+        "uid": "WhiteNightmare",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime"
+        ],
+        "password": "password",
+        "rating": 2,
+        "time": {
+            "seconds": 1551660075,
+            "nanoseconds": 811000000
+        },
+        "timeelapsed": 67487,
+        "timeend": "3/3 at 16:41 PM",
+        "timestart": "3/3 at 16:40 PM",
+        "tries": 64,
+        "uid": "MahoganyLurker",
+        "username": "MahoganyLurker"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "Artifice",
+        "rating": 3,
+        "time": {
+            "seconds": 1551658074,
+            "nanoseconds": 967000000
+        },
+        "timeelapsed": 118321,
+        "timeend": "3/3 at 16:07 PM",
+        "timestart": "3/3 at 16:05 PM",
+        "tries": 2,
+        "uid": "UnmellowYellowMontagnaRossa",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/profile/photo-thumb-2.gif",
+        "keyList": [
+            "red"
+        ],
+        "password": "hell",
+        "rating": 3,
+        "time": {
+            "seconds": 1551651878,
+            "nanoseconds": 527000000
+        },
+        "timeelapsed": 20339,
+        "timeend": "3/3 at 15:24 PM",
+        "timestart": "3/3 at 15:24 PM",
+        "tries": 20,
+        "uid": "RummyPaladin",
+        "username": "supernal"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "seed",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663448,
+            "nanoseconds": 196000000
+        },
+        "timeelapsed": 473930,
+        "timeend": "3/3 at 20:37 PM",
+        "timestart": "3/3 at 20:29 PM",
+        "tries": 55,
+        "uid": "StormboundOrolindari",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow",
+            "blue"
+        ],
+        "password": "rosinder",
+        "rating": 5,
+        "time": {
+            "seconds": 1551665208,
+            "nanoseconds": 139000000
+        },
+        "timeelapsed": 925590,
+        "timeend": "3/3 at 21:06 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 13,
+        "uid": "FaucalMegaLobster",
+        "username": "rosinder"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "purple"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551654936,
+            "nanoseconds": 642000000
+        },
+        "timeelapsed": 53777,
+        "timeend": "3/3 at 15:15 PM",
+        "timestart": "3/3 at 15:14 PM",
+        "tries": 1,
+        "uid": "RawUmberVarunaRose",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "purple"
+        ],
+        "password": "Report",
+        "rating": 1,
+        "time": {
+            "seconds": 1551655416,
+            "nanoseconds": 139000000
+        },
+        "timeelapsed": 73050,
+        "timeend": "3/3 at 18:23 PM",
+        "timestart": "3/3 at 18:22 PM",
+        "tries": 16,
+        "uid": "TealBlueVeldamari",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "OBELUS",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658375,
+            "nanoseconds": 80000000
+        },
+        "timeelapsed": 120080,
+        "timeend": "3/3 at 19:12 PM",
+        "timestart": "3/3 at 19:10 PM",
+        "tries": 9,
+        "uid": "ProfessedYuuja",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "orange"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551666171,
+            "nanoseconds": 422000000
+        },
+        "timeelapsed": 49579,
+        "timeend": "3/3 at 21:22 PM",
+        "timestart": "3/3 at 21:22 PM",
+        "tries": 11,
+        "uid": "StarryLamane",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Zengi",
+        "rating": 3,
+        "time": {
+            "seconds": 1551654154,
+            "nanoseconds": 285000000
+        },
+        "timeelapsed": 452818,
+        "timeend": "3/3 at 18:02 PM",
+        "timestart": "3/3 at 17:55 PM",
+        "tries": 2,
+        "uid": "PineGreenWitchKing",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "tenwords",
+        "rating": 0,
+        "time": {
+            "seconds": 1551659330,
+            "nanoseconds": 880000000
+        },
+        "timeelapsed": 76144,
+        "timeend": "3/3 at 19:28 PM",
+        "timestart": "3/3 at 19:27 PM",
+        "tries": 43,
+        "uid": "UndueRiderDragon",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551659774,
+            "nanoseconds": 895000000
+        },
+        "timeelapsed": 54208,
+        "timeend": "3/3 at 19:36 PM",
+        "timestart": "3/3 at 19:35 PM",
+        "tries": 47,
+        "uid": "SlickeredNaga",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551660143,
+            "nanoseconds": 602000000
+        },
+        "timeelapsed": 190687,
+        "timeend": "3/3 at 16:42 PM",
+        "timestart": "3/3 at 16:39 PM",
+        "tries": 9,
+        "uid": "RookyPlainsProwler",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "12345678",
+        "rating": 1,
+        "time": {
+            "seconds": 1551665583,
+            "nanoseconds": 462000000
+        },
+        "timeelapsed": 722378,
+        "timeend": "3/3 at 21:13 PM",
+        "timestart": "3/3 at 21:01 PM",
+        "tries": 19,
+        "uid": "SeralVampyr",
+        "username": "SEED"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "Zeitgeis",
+        "rating": 3,
+        "time": {
+            "seconds": 1551664365,
+            "nanoseconds": 935000000
+        },
+        "timeelapsed": 220677,
+        "timeend": "3/3 at 17:52 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 1,
+        "uid": "ElectricLimeVarunaRose",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Gauntlet",
+        "rating": 3,
+        "time": {
+            "seconds": 1551651256,
+            "nanoseconds": 478000000
+        },
+        "timeelapsed": 442098,
+        "timeend": "3/3 at 15:14 PM",
+        "timestart": "3/3 at 15:06 PM",
+        "tries": 6,
+        "uid": "CeriseHalfGiant",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "watching",
+        "rating": 5,
+        "time": {
+            "seconds": 1551659027,
+            "nanoseconds": 893000000
+        },
+        "timeelapsed": 411213,
+        "timeend": "3/3 at 19:23 PM",
+        "timestart": "3/3 at 19:16 PM",
+        "tries": 40,
+        "uid": "RobinsEggBlueDeathhand",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551665425,
+            "nanoseconds": 187000000
+        },
+        "timeelapsed": 236009,
+        "timeend": "3/3 at 18:10 PM",
+        "timestart": "3/3 at 18:06 PM",
+        "tries": 4,
+        "uid": "OutrageousOrangeVampyr",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "Obelus",
+        "rating": 5,
+        "time": {
+            "seconds": 1551657848,
+            "nanoseconds": 515000000
+        },
+        "timeelapsed": 248741,
+        "timeend": "3/3 at 16:04 PM",
+        "timestart": "3/3 at 15:59 PM",
+        "tries": 1,
+        "uid": "GloboseVampyre",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "purple",
+            "amber",
+            "yellow",
+            "blue",
+            "red"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551665101,
+            "nanoseconds": 482000000
+        },
+        "timeelapsed": 305135,
+        "timeend": "3/3 at 21:05 PM",
+        "timestart": "3/3 at 20:59 PM",
+        "tries": 5,
+        "uid": "MagicMintArchbishop",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "amber"
+        ],
+        "password": "NACEFEEE",
+        "rating": 3,
+        "time": {
+            "seconds": 1551653957,
+            "nanoseconds": 579000000
+        },
+        "timeelapsed": 780915,
+        "timeend": "3/4 at 06:59 AM",
+        "timestart": "3/4 at 06:46 AM",
+        "tries": 24,
+        "uid": "ShadowFlameleaf",
+        "username": "LOCATION"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "yellow",
+            "blue"
+        ],
+        "password": "obelus",
+        "rating": 2,
+        "time": {
+            "seconds": 1551665103,
+            "nanoseconds": 661000000
+        },
+        "timeelapsed": 821112,
+        "timeend": "3/3 at 21:05 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 13,
+        "uid": "RawSiennaChhitten",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "indigo"
+        ],
+        "password": "hello",
+        "rating": 3,
+        "time": {
+            "seconds": 1551659338,
+            "nanoseconds": 224000000
+        },
+        "timeelapsed": 45743,
+        "timeend": "3/3 at 17:28 PM",
+        "timestart": "3/3 at 17:28 PM",
+        "tries": 32,
+        "uid": "CompactDragoon",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/31D476D5-3D05-4910-8FAE-C2645D5AC554.thumb.jpeg.ae55e2f8ebdd692972f2238af205af66.jpeg",
+        "keyList": [],
+        "password": "Ikcytit4",
+        "rating": 1,
+        "time": {
+            "seconds": 1551651319,
+            "nanoseconds": 613000000
+        },
+        "timeelapsed": 36252,
+        "timeend": "3/3 at 15:15 PM",
+        "timestart": "3/3 at 15:14 PM",
+        "tries": 7,
+        "uid": "HotMagentaKalmor",
+        "username": "AngryCacti"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656834,
+            "nanoseconds": 460000000
+        },
+        "timeelapsed": 167668,
+        "timeend": "3/3 at 15:47 PM",
+        "timestart": "3/3 at 15:44 PM",
+        "tries": 52,
+        "uid": "RazzmatazzAelindrian",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Amazingg",
+        "rating": 2,
+        "time": {
+            "seconds": 1551659119,
+            "nanoseconds": 485000000
+        },
+        "timeelapsed": 170933,
+        "timeend": "3/3 at 16:25 PM",
+        "timestart": "3/3 at 16:22 PM",
+        "tries": 7,
+        "uid": "ThymyValhatienScarab",
+        "username": "Obelus"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/31D476D5-3D05-4910-8FAE-C2645D5AC554.thumb.jpeg.ae55e2f8ebdd692972f2238af205af66.jpeg",
+        "keyList": [],
+        "password": "Escape",
+        "rating": 3,
+        "time": {
+            "seconds": 1551649949,
+            "nanoseconds": 682000000
+        },
+        "timeelapsed": 394121,
+        "timeend": "3/3 at 14:52 PM",
+        "timestart": "3/3 at 14:45 PM",
+        "tries": 1,
+        "uid": "WildStrawberryGreatJaguar",
+        "username": "AngryCacti"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 1,
+        "time": {
+            "seconds": 1551660415,
+            "nanoseconds": 899000000
+        },
+        "timeelapsed": 462985,
+        "timeend": "3/3 at 16:46 PM",
+        "timestart": "3/3 at 16:39 PM",
+        "tries": 12,
+        "uid": "OrchidCardinal",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [],
+        "password": "12345678",
+        "rating": 5,
+        "time": {
+            "seconds": 1551659124,
+            "nanoseconds": 908000000
+        },
+        "timeelapsed": 869908,
+        "timeend": "3/3 at 19:25 PM",
+        "timestart": "3/3 at 19:10 PM",
+        "tries": 10,
+        "uid": "VagalOrisianShadowWolf",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "Aaa",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664971,
+            "nanoseconds": 404000000
+        },
+        "timeelapsed": 826146,
+        "timeend": "3/3 at 18:02 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 2,
+        "uid": "UngladBasilisk",
+        "username": "SKOLL7331"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "ssdds",
+        "rating": 5,
+        "time": {
+            "seconds": 1551659291,
+            "nanoseconds": 187000000
+        },
+        "timeelapsed": 342636,
+        "timeend": "3/3 at 16:28 PM",
+        "timestart": "3/3 at 16:22 PM",
+        "tries": 7,
+        "uid": "TealBlueFallenKnight",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551663546,
+            "nanoseconds": 455000000
+        },
+        "timeelapsed": 572189,
+        "timeend": "3/3 at 20:39 PM",
+        "timestart": "3/3 at 20:29 PM",
+        "tries": 55,
+        "uid": "JungleGreenWhiteWolf",
+        "username": "JungleGreenWhiteWolf"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [],
+        "password": "        ",
+        "rating": 5,
+        "time": {
+            "seconds": 1551651751,
+            "nanoseconds": 992000000
+        },
+        "timeelapsed": 40280,
+        "timeend": "3/4 at 06:22 AM",
+        "timestart": "3/4 at 06:21 AM",
+        "tries": 6,
+        "uid": "BananaManiaXerorian",
+        "username": "vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "asdfghjk",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656897,
+            "nanoseconds": 687000000
+        },
+        "timeelapsed": 230895,
+        "timeend": "3/3 at 15:48 PM",
+        "timestart": "3/3 at 15:44 PM",
+        "tries": 52,
+        "uid": "MauvelousChhittenMagnus",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "Beau",
+        "rating": 5,
+        "time": {
+            "seconds": 1551649688,
+            "nanoseconds": 153000000
+        },
+        "timeelapsed": 132591,
+        "timeend": "3/3 at 14:48 PM",
+        "timestart": "3/3 at 14:45 PM",
+        "tries": 1,
+        "uid": "PainlessNightmare",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "red"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551658595,
+            "nanoseconds": 635000000
+        },
+        "timeelapsed": 76619,
+        "timeend": "3/3 at 16:16 PM",
+        "timestart": "3/3 at 16:15 PM",
+        "tries": 1,
+        "uid": "VitricSparkstalk",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [
+            "orange"
+        ],
+        "password": "ant-kins",
+        "rating": 5,
+        "time": {
+            "seconds": 1551651196,
+            "nanoseconds": 690000000
+        },
+        "timeelapsed": 66450,
+        "timeend": "3/4 at 06:13 AM",
+        "timestart": "3/4 at 06:12 AM",
+        "tries": 17,
+        "uid": "FaintishDiocese",
+        "username": "vielle"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Adamite1",
+        "rating": 5,
+        "time": {
+            "seconds": 1551649942,
+            "nanoseconds": 756000000
+        },
+        "timeelapsed": 71545,
+        "timeend": "3/3 at 16:52 PM",
+        "timestart": "3/3 at 16:51 PM",
+        "tries": 1,
+        "uid": "SilverSphinx",
+        "username": "Grubbistch"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "500Beast",
+        "rating": 5,
+        "time": {
+            "seconds": 1551651737,
+            "nanoseconds": 158000000
+        },
+        "timeelapsed": 51655,
+        "timeend": "3/3 at 14:22 PM",
+        "timestart": "3/3 at 14:21 PM",
+        "tries": 2,
+        "uid": "AtomicTangerineFigwidgett",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "password",
+        "rating": 4,
+        "time": {
+            "seconds": 1551656184,
+            "nanoseconds": 68000000
+        },
+        "timeelapsed": 421652,
+        "timeend": "3/3 at 15:36 PM",
+        "timestart": "3/3 at 15:29 PM",
+        "tries": 2,
+        "uid": "FlimsyLaRuta",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "17keys",
+        "rating": 3,
+        "time": {
+            "seconds": 1551651038,
+            "nanoseconds": 911000000
+        },
+        "timeelapsed": 224530,
+        "timeend": "3/3 at 15:10 PM",
+        "timestart": "3/3 at 15:06 PM",
+        "tries": 6,
+        "uid": "PlumSkincrawler",
+        "username": "-Lilium-"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "death",
+        "rating": 3,
+        "time": {
+            "seconds": 1551657216,
+            "nanoseconds": 17000000
+        },
+        "timeelapsed": 214846,
+        "timeend": "3/3 at 18:53 PM",
+        "timestart": "3/3 at 18:50 PM",
+        "tries": 3,
+        "uid": "MauvelousSaevion",
+        "username": "Desecrator"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Terrenus",
+        "rating": 5,
+        "time": {
+            "seconds": 1551650871,
+            "nanoseconds": 576000000
+        },
+        "timeelapsed": 57196,
+        "timeend": "3/3 at 15:07 PM",
+        "timestart": "3/3 at 15:06 PM",
+        "tries": 6,
+        "uid": "SunsetOrangeOrisianShadowWolf",
+        "username": "Eustace Monroe"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "orange",
+            "yellow"
+        ],
+        "password": "input102",
+        "rating": 3,
+        "time": {
+            "seconds": 1551662353,
+            "nanoseconds": 633000000
+        },
+        "timeelapsed": 3953952,
+        "timeend": "3/3 at 20:19 PM",
+        "timestart": "3/3 at 19:13 PM",
+        "tries": 14,
+        "uid": "FernCometPerson",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "enrele",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663921,
+            "nanoseconds": 863000000
+        },
+        "timeelapsed": 43430,
+        "timeend": "3/3 at 20:45 PM",
+        "timestart": "3/3 at 20:44 PM",
+        "tries": 9,
+        "uid": "TumbleweedElementalKnight",
+        "username": "hidden"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "lime",
+            "red",
+            "amber",
+            "yellow",
+            "orange"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551662413,
+            "nanoseconds": 14000000
+        },
+        "timeelapsed": 966504,
+        "timeend": "3/3 at 17:20 PM",
+        "timestart": "3/3 at 17:04 PM",
+        "tries": 4,
+        "uid": "TropicalRainForestUlway",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2017_06/jose-rizal-is-not-a-hero.thumb.jpg.4e4b9c35deda6736d2c78e2e88a485ef.jpg",
+        "keyList": [],
+        "password": "????????",
+        "rating": 5,
+        "time": {
+            "seconds": 1551663367,
+            "nanoseconds": 908000000
+        },
+        "timeelapsed": 119186,
+        "timeend": "3/4 at 09:36 AM",
+        "timestart": "3/4 at 09:34 AM",
+        "tries": 2,
+        "uid": "ShockingPinkFrostSprite",
+        "username": "Csl"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551660065,
+            "nanoseconds": 992000000
+        },
+        "timeelapsed": 113077,
+        "timeend": "3/3 at 16:41 PM",
+        "timestart": "3/3 at 16:39 PM",
+        "tries": 9,
+        "uid": "ShamrockTwistling",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "amber",
+            "grey"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551665582,
+            "nanoseconds": 869000000
+        },
+        "timeelapsed": 118159,
+        "timeend": "3/3 at 18:13 PM",
+        "timestart": "3/3 at 18:11 PM",
+        "tries": 1,
+        "uid": "DandelionSpadeHornedCervidae",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [],
+        "password": "TERRENUS",
+        "rating": 5,
+        "time": {
+            "seconds": 1551651955,
+            "nanoseconds": 767000000
+        },
+        "timeelapsed": 105140,
+        "timeend": "3/4 at 06:25 AM",
+        "timestart": "3/4 at 06:24 AM",
+        "tries": 9,
+        "uid": "TouringCatfolk",
+        "username": "vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "omgwhat",
+        "rating": 0,
+        "time": {
+            "seconds": 1551658768,
+            "nanoseconds": 246000000
+        },
+        "timeelapsed": 151565,
+        "timeend": "3/3 at 19:19 PM",
+        "timestart": "3/3 at 19:16 PM",
+        "tries": 38,
+        "uid": "SalineBoneWyrm",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "Location",
+        "rating": 5,
+        "time": {
+            "seconds": 1551659381,
+            "nanoseconds": 423000000
+        },
+        "timeelapsed": 56305,
+        "timeend": "3/3 at 16:29 PM",
+        "timestart": "3/3 at 16:28 PM",
+        "tries": 8,
+        "uid": "PineGreenApprentice",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "red"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663123,
+            "nanoseconds": 648000000
+        },
+        "timeelapsed": 28472,
+        "timeend": "3/3 at 17:32 PM",
+        "timestart": "3/3 at 17:31 PM",
+        "tries": 1,
+        "uid": "RoyalPurpleDesertWolf",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "ASDASDAS",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658915,
+            "nanoseconds": 627000000
+        },
+        "timeelapsed": 590315,
+        "timeend": "3/3 at 16:21 PM",
+        "timestart": "3/3 at 16:12 PM",
+        "tries": 6,
+        "uid": "MulberryEnrele",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551665063,
+            "nanoseconds": 533000000
+        },
+        "timeelapsed": 780984,
+        "timeend": "3/3 at 21:04 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 13,
+        "uid": "GrouchySovereign",
+        "username": "OldWadeCasper"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "lime"
+        ],
+        "password": "password",
+        "rating": 4,
+        "time": {
+            "seconds": 1551660374,
+            "nanoseconds": 638000000
+        },
+        "timeelapsed": 366315,
+        "timeend": "3/3 at 16:46 PM",
+        "timestart": "3/3 at 16:40 PM",
+        "tries": 64,
+        "uid": "MaroonBodySnatcher",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "red"
+        ],
+        "password": "ataraxy1",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656744,
+            "nanoseconds": 224000000
+        },
+        "timeelapsed": 157149,
+        "timeend": "3/3 at 15:45 PM",
+        "timestart": "3/3 at 15:43 PM",
+        "tries": 325,
+        "uid": "VividVioletHeavenwingButterfly",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551660534,
+            "nanoseconds": 174000000
+        },
+        "timeelapsed": 113614,
+        "timeend": "3/3 at 16:48 PM",
+        "timestart": "3/3 at 16:47 PM",
+        "tries": 13,
+        "uid": "PurpleMountainsMajestyRavenwing",
+        "username": "PurpleMountainsMajestyRavenwing"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "purple"
+        ],
+        "password": "enrele",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664432,
+            "nanoseconds": 397000000
+        },
+        "timeelapsed": 237764,
+        "timeend": "3/4 at 09:53 AM",
+        "timestart": "3/4 at 09:49 AM",
+        "tries": 9,
+        "uid": "VividVioletSOLDAT",
+        "username": "VividVioletSOLDAT"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [
+            "amber"
+        ],
+        "password": "xxxxxxxx",
+        "rating": 0,
+        "time": {
+            "seconds": 1551653380,
+            "nanoseconds": 148000000
+        },
+        "timeelapsed": 203484,
+        "timeend": "3/4 at 06:49 AM",
+        "timestart": "3/4 at 06:46 AM",
+        "tries": 23,
+        "uid": "RadicalRedBanshee",
+        "username": "vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "grey"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663570,
+            "nanoseconds": 496000000
+        },
+        "timeelapsed": 91454,
+        "timeend": "3/3 at 17:39 PM",
+        "timestart": "3/3 at 17:37 PM",
+        "tries": 2,
+        "uid": "BrownPRIME",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "Obelus16",
+        "rating": 5,
+        "time": {
+            "seconds": 1551657994,
+            "nanoseconds": 432000000
+        },
+        "timeelapsed": 37786,
+        "timeend": "3/3 at 16:06 PM",
+        "timestart": "3/3 at 16:05 PM",
+        "tries": 2,
+        "uid": "ValvateFallenKnight",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "purple",
+            "amber",
+            "grey"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551647949,
+            "nanoseconds": 338000000
+        },
+        "timeelapsed": 62060,
+        "timeend": "3/3 at 14:19 PM",
+        "timestart": "3/3 at 14:18 PM",
+        "tries": 2,
+        "uid": "LavenderWoodlandCrawler",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Zengise",
+        "rating": 5,
+        "time": {
+            "seconds": 1551652247,
+            "nanoseconds": 435000000
+        },
+        "timeelapsed": 41966,
+        "timeend": "3/4 at 06:30 AM",
+        "timestart": "3/4 at 06:30 AM",
+        "tries": 16,
+        "uid": "FoglessCometPerson",
+        "username": "Zengi"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "looooool",
+        "rating": 2,
+        "time": {
+            "seconds": 1551653792,
+            "nanoseconds": 408000000
+        },
+        "timeelapsed": 90943,
+        "timeend": "3/3 at 17:56 PM",
+        "timestart": "3/3 at 17:55 PM",
+        "tries": 2,
+        "uid": "PliantMimic",
+        "username": "The Cure"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "zengi",
+        "rating": 5,
+        "time": {
+            "seconds": 1551649664,
+            "nanoseconds": 295000000
+        },
+        "timeelapsed": 138943,
+        "timeend": "3/3 at 16:47 PM",
+        "timestart": "3/3 at 16:45 PM",
+        "tries": 4,
+        "uid": "YellowOrangeShadowBeast",
+        "username": "No one"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "passwore",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664828,
+            "nanoseconds": 738000000
+        },
+        "timeelapsed": 683479,
+        "timeend": "3/3 at 18:00 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 2,
+        "uid": "SerfishGaianist",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "daemon",
+        "rating": 1,
+        "time": {
+            "seconds": 1551663547,
+            "nanoseconds": 200000000
+        },
+        "timeelapsed": 324344,
+        "timeend": "3/3 at 20:39 PM",
+        "timestart": "3/3 at 20:33 PM",
+        "tries": 6,
+        "uid": "CrumblyLandshark",
+        "username": "wade"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "identity",
+        "rating": 2,
+        "time": {
+            "seconds": 1551663683,
+            "nanoseconds": 74000000
+        },
+        "timeelapsed": 48315,
+        "timeend": "3/3 at 20:41 PM",
+        "timestart": "3/3 at 20:40 PM",
+        "tries": 7,
+        "uid": "UnclimbedDirector",
+        "username": "wade"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "paswword",
+        "rating": 4,
+        "time": {
+            "seconds": 1551662821,
+            "nanoseconds": 223000000
+        },
+        "timeelapsed": 631918,
+        "timeend": "3/3 at 20:27 PM",
+        "timestart": "3/3 at 20:16 PM",
+        "tries": 53,
+        "uid": "PeachCoconino",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551661259,
+            "nanoseconds": 285000000
+        },
+        "timeelapsed": 1538599,
+        "timeend": "3/3 at 20:00 PM",
+        "timestart": "3/3 at 19:35 PM",
+        "tries": 50,
+        "uid": "ForestGreenKharn",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Gauntlet",
+        "rating": 3,
+        "time": {
+            "seconds": 1551649758,
+            "nanoseconds": 540000000
+        },
+        "timeelapsed": 202979,
+        "timeend": "3/3 at 14:49 PM",
+        "timestart": "3/3 at 14:45 PM",
+        "tries": 1,
+        "uid": "MenselessPRIME",
+        "username": "Nobody"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "seed",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658630,
+            "nanoseconds": 973000000
+        },
+        "timeelapsed": 231293,
+        "timeend": "3/3 at 19:17 PM",
+        "timestart": "3/3 at 19:13 PM",
+        "tries": 10,
+        "uid": "ChestnutDirectivist",
+        "username": "seed"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "lime",
+            "red",
+            "amber",
+            "yellow",
+            "orange"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551662151,
+            "nanoseconds": 497000000
+        },
+        "timeelapsed": 704988,
+        "timeend": "3/3 at 17:15 PM",
+        "timestart": "3/3 at 17:04 PM",
+        "tries": 3,
+        "uid": "PurpleHeartBanjari",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "weaver",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664380,
+            "nanoseconds": 372000000
+        },
+        "timeelapsed": 97823,
+        "timeend": "3/3 at 20:53 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 12,
+        "uid": "VividTangerineNaga",
+        "username": "not hidden"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Enrele",
+        "rating": 3,
+        "time": {
+            "seconds": 1551663320,
+            "nanoseconds": 554000000
+        },
+        "timeelapsed": 97698,
+        "timeend": "3/3 at 20:35 PM",
+        "timestart": "3/3 at 20:33 PM",
+        "tries": 6,
+        "uid": "AtomicTangerineIrisEye",
+        "username": "wade"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [],
+        "password": "look08",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656599,
+            "nanoseconds": 294000000
+        },
+        "timeelapsed": 646445,
+        "timeend": "3/3 at 18:43 PM",
+        "timestart": "3/3 at 18:32 PM",
+        "tries": 1,
+        "uid": "LemonYellowHalfling",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "blue",
+            "red",
+            "amber",
+            "grey",
+            "yellow",
+            "lime"
+        ],
+        "password": "seg",
+        "rating": 3,
+        "time": {
+            "seconds": 1551666015,
+            "nanoseconds": 498000000
+        },
+        "timeelapsed": 550788,
+        "timeend": "3/3 at 18:20 PM",
+        "timestart": "3/3 at 18:11 PM",
+        "tries": 3,
+        "uid": "GoldSOLDAT",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "purple",
+            "amber",
+            "yellow",
+            "blue",
+            "red"
+        ],
+        "password": "password",
+        "rating": 2,
+        "time": {
+            "seconds": 1551665325,
+            "nanoseconds": 103000000
+        },
+        "timeelapsed": 528756,
+        "timeend": "3/3 at 21:08 PM",
+        "timestart": "3/3 at 20:59 PM",
+        "tries": 6,
+        "uid": "ScarletSpy",
+        "username": "Scarletspy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "zengi",
+        "rating": 3,
+        "time": {
+            "seconds": 1551652417,
+            "nanoseconds": 519000000
+        },
+        "timeelapsed": 42954,
+        "timeend": "3/3 at 14:33 PM",
+        "timestart": "3/3 at 14:32 PM",
+        "tries": 6,
+        "uid": "GreenKraith",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "orange"
+        ],
+        "password": "LIDLESSD",
+        "rating": 4,
+        "time": {
+            "seconds": 1551655132,
+            "nanoseconds": 861000000
+        },
+        "timeelapsed": 37901,
+        "timeend": "3/3 at 18:18 PM",
+        "timestart": "3/3 at 18:18 PM",
+        "tries": 12,
+        "uid": "ScarletDesecrator",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "orange"
+        ],
+        "password": "password",
+        "rating": 5,
+        "time": {
+            "seconds": 1551658750,
+            "nanoseconds": 291000000
+        },
+        "timeelapsed": 554174,
+        "timeend": "3/3 at 17:19 PM",
+        "timestart": "3/3 at 17:09 PM",
+        "tries": 26,
+        "uid": "SpousalGreatJaguar",
+        "username": "hELLO"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "        ",
+        "rating": 1,
+        "time": {
+            "seconds": 1551659245,
+            "nanoseconds": 751000000
+        },
+        "timeelapsed": 990751,
+        "timeend": "3/3 at 19:27 PM",
+        "timestart": "3/3 at 19:10 PM",
+        "tries": 10,
+        "uid": "OrchidLurker",
+        "username": "Seed"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [
+            "orange",
+            "red"
+        ],
+        "password": "66045812",
+        "rating": 5,
+        "time": {
+            "seconds": 1551653743,
+            "nanoseconds": 809000000
+        },
+        "timeelapsed": 1125492,
+        "timeend": "3/3 at 14:55 PM",
+        "timestart": "3/3 at 14:36 PM",
+        "tries": 21,
+        "uid": "SaucySandWyrm",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2016_04/FWD3G0i_jpg1.thumb_b8bf7eb63478d2c3011d1ee8b0ebf0c6.b811c78a7d101fd52ee42eaeb5e3ac56",
+        "keyList": [
+            "red"
+        ],
+        "password": "seed",
+        "rating": 3,
+        "time": {
+            "seconds": 1551657651,
+            "nanoseconds": 412000000
+        },
+        "timeelapsed": 650241,
+        "timeend": "3/3 at 19:00 PM",
+        "timestart": "3/3 at 18:50 PM",
+        "tries": 6,
+        "uid": "MangoTangoSuujali",
+        "username": "Ampersand"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [
+            "red",
+            "lime"
+        ],
+        "password": "password",
+        "rating": 3,
+        "time": {
+            "seconds": 1551661112,
+            "nanoseconds": 345000000
+        },
+        "timeelapsed": 153606,
+        "timeend": "3/3 at 16:58 PM",
+        "timestart": "3/3 at 16:55 PM",
+        "tries": 1,
+        "uid": "UndressMegaLobster",
+        "username": "Artificer"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "suspicio",
+        "rating": 1,
+        "time": {
+            "seconds": 1551658087,
+            "nanoseconds": 13000000
+        },
+        "timeelapsed": 395326,
+        "timeend": "3/3 at 16:08 PM",
+        "timestart": "3/3 at 16:01 PM",
+        "tries": 57,
+        "uid": "BlushGaianist",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Password",
+        "rating": 4,
+        "time": {
+            "seconds": 1551650035,
+            "nanoseconds": 653000000
+        },
+        "timeelapsed": 480092,
+        "timeend": "3/3 at 14:53 PM",
+        "timestart": "3/3 at 14:45 PM",
+        "tries": 1,
+        "uid": "MurkyGaianist",
+        "username": "Eyes"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "orange",
+            "purple"
+        ],
+        "password": "Enrele",
+        "rating": 4,
+        "time": {
+            "seconds": 1551652677,
+            "nanoseconds": 175000000
+        },
+        "timeelapsed": 38379,
+        "timeend": "3/3 at 17:37 PM",
+        "timestart": "3/3 at 17:37 PM",
+        "tries": 19,
+        "uid": "ElectricLimeSandWyrm",
+        "username": "One among many"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Beurgard",
+        "rating": 5,
+        "time": {
+            "seconds": 1551650922,
+            "nanoseconds": 493000000
+        },
+        "timeelapsed": 156117,
+        "timeend": "3/3 at 17:08 PM",
+        "timestart": "3/3 at 17:06 PM",
+        "tries": 1,
+        "uid": "WorklessWhiteWolf",
+        "username": "Grand Mainframe"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [],
+        "password": "OVERRIDE",
+        "rating": 3,
+        "time": {
+            "seconds": 1551652704,
+            "nanoseconds": 822000000
+        },
+        "timeelapsed": 52807,
+        "timeend": "3/4 at 06:38 AM",
+        "timestart": "3/4 at 06:37 AM",
+        "tries": 19,
+        "uid": "AtomicTangerineRixnour",
+        "username": "vielle"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/the_abyss_by_sovanjedi-d9dl1sl.thumb.gif.b06d96ae935a667433d200c1abc279b7.gif",
+        "keyList": [],
+        "password": "speak232",
+        "rating": 5,
+        "time": {
+            "seconds": 1551649634,
+            "nanoseconds": 216000000
+        },
+        "timeelapsed": 509797,
+        "timeend": "3/4 at 05:47 AM",
+        "timestart": "3/4 at 05:38 AM",
+        "tries": 1,
+        "uid": "RuefulOicheDuende",
+        "username": "vielle"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow",
+            "blue"
+        ],
+        "password": "fuck",
+        "rating": 5,
+        "time": {
+            "seconds": 1551665585,
+            "nanoseconds": 751000000
+        },
+        "timeelapsed": 1303201,
+        "timeend": "3/3 at 21:13 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 13,
+        "uid": "SpoonyHuman",
+        "username": "DumbWadeTerrenus"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "yellow"
+        ],
+        "password": "password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551660601,
+            "nanoseconds": 74000000
+        },
+        "timeelapsed": 880387,
+        "timeend": "3/3 at 19:50 PM",
+        "timestart": "3/3 at 19:35 PM",
+        "tries": 50,
+        "uid": "WisteriaFairy",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_02/Cowboy.thumb.jpg.54fa9a87dc5ca49e51f64ade2bd63914.jpg",
+        "keyList": [],
+        "password": "ZENGI",
+        "rating": 3,
+        "time": {
+            "seconds": 1551649834,
+            "nanoseconds": 745000000
+        },
+        "timeelapsed": 25672,
+        "timeend": "3/3 at 16:50 PM",
+        "timestart": "3/3 at 16:50 PM",
+        "tries": 5,
+        "uid": "AlmondRixnour",
+        "username": "Wade"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "blue",
+            "red",
+            "yellow",
+            "lime"
+        ],
+        "password": "Aaa",
+        "rating": 5,
+        "time": {
+            "seconds": 1551664971,
+            "nanoseconds": 341000000
+        },
+        "timeelapsed": 826083,
+        "timeend": "3/3 at 18:02 PM",
+        "timestart": "3/3 at 17:49 PM",
+        "tries": 2,
+        "uid": "UngladBasilisk",
+        "username": "SKOLL7331"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "lime"
+        ],
+        "password": "hellothe",
+        "rating": 3,
+        "time": {
+            "seconds": 1551652677,
+            "nanoseconds": 100000000
+        },
+        "timeelapsed": 29259,
+        "timeend": "3/3 at 15:37 PM",
+        "timestart": "3/3 at 15:37 PM",
+        "tries": 25,
+        "uid": "VerblessCelestialGuard",
+        "username": "VerblessCelestialGuard"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/fit.thumb.gif.fc4eebd52c8b2df01eab6afa960bdaa4.gif",
+        "keyList": [],
+        "password": "Hourglas",
+        "rating": 0,
+        "time": {
+            "seconds": 1551659700,
+            "nanoseconds": 226000000
+        },
+        "timeelapsed": 63086,
+        "timeend": "3/3 at 19:35 PM",
+        "timestart": "3/3 at 19:33 PM",
+        "tries": 46,
+        "uid": "IncisedLurker",
+        "username": "OBELUS"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "Password",
+        "rating": 0,
+        "time": {
+            "seconds": 1551657932,
+            "nanoseconds": 398000000
+        },
+        "timeelapsed": 59159,
+        "timeend": "3/3 at 19:05 PM",
+        "timestart": "3/3 at 19:04 PM",
+        "tries": 31,
+        "uid": "WhorishKalmor",
+        "username": "Mr. E"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [],
+        "password": "notapass",
+        "rating": 4,
+        "time": {
+            "seconds": 1551656548,
+            "nanoseconds": 408000000
+        },
+        "timeelapsed": 67036,
+        "timeend": "3/3 at 15:42 PM",
+        "timestart": "3/3 at 15:41 PM",
+        "tries": 322,
+        "uid": "BlueGrayCoconino",
+        "username": "BEEP"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/36840bd9fff79ddf0f924175c5cddf1d.thumb.jpg.2c707a76293ef2f82b86a47e3b80a282.jpg",
+        "keyList": [],
+        "password": "asdfghjk",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656874,
+            "nanoseconds": 804000000
+        },
+        "timeelapsed": 208012,
+        "timeend": "3/3 at 15:47 PM",
+        "timestart": "3/3 at 15:44 PM",
+        "tries": 52,
+        "uid": "LavenderDwarf",
+        "username": "EpicRome23"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [
+            "red"
+        ],
+        "password": "ksandfjd",
+        "rating": 5,
+        "time": {
+            "seconds": 1551655038,
+            "nanoseconds": 77000000
+        },
+        "timeelapsed": 555928,
+        "timeend": "3/3 at 18:17 PM",
+        "timestart": "3/3 at 18:08 PM",
+        "tries": 10,
+        "uid": "LidlessDemioMundi",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "./avatar-1.png",
+        "keyList": [
+            "yellow",
+            "blue",
+            "purple",
+            "amber"
+        ],
+        "password": "i dunno",
+        "rating": 0,
+        "time": {
+            "seconds": 1551666229,
+            "nanoseconds": 390000000
+        },
+        "timeelapsed": 1946841,
+        "timeend": "3/3 at 21:23 PM",
+        "timestart": "3/3 at 20:51 PM",
+        "tries": 14,
+        "uid": "CtenoidSuan",
+        "username": "BlueGrayVeldamari"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/JPEG_20190127_020654.thumb.jpg.2599f0778065a3c1c4a2b8fb2f4811f7.jpg",
+        "keyList": [],
+        "password": "12345678",
+        "rating": 5,
+        "time": {
+            "seconds": 1551656145,
+            "nanoseconds": 424000000
+        },
+        "timeelapsed": 68396,
+        "timeend": "3/3 at 18:35 PM",
+        "timestart": "3/3 at 18:34 PM",
+        "tries": 23,
+        "uid": "OccultWoodlandCrawler",
+        "username": "Ataraxy"
+    },
+    {
+        "avatar": "https://www.valucre.com/uploads/monthly_2019_01/SwordInStone-animated-final.thumb.gif.9bd383663a7dbb91e1337f767f30cf6d.gif",
+        "keyList": [],
+        "password": "reloadin",
+        "rating": 5,
+        "time": {
+            "seconds": 1551658555,
+            "nanoseconds": 756000000
+        },
+        "timeelapsed": 230444,
+        "timeend": "3/3 at 16:15 PM",
+        "timestart": "3/3 at 16:12 PM",
+        "tries": 6,
+        "uid": "DesertSandGargoyle",
+        "username": "Artificer"
+    }
+]

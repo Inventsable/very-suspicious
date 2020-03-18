@@ -1,29 +1,7 @@
-# password-gag
+# very-suspicio.us
 
-## Project setup
-```
-npm install
-```
+An old ARG game made for a small group of people, playable at [very-suspicio.us](http://very-suspicio.us). [See a full 1 minute playthrough here](https://gfycat.com/simplelavishanura).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![](https://thumbs.gfycat.com/FatherlyJauntyIndianspinyloach-size_restricted.gif)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![](https://thumbs.gfycat.com/PeriodicSingleIlladopsis-size_restricted.gif)

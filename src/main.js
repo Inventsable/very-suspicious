@@ -1,10 +1,12 @@
 import Vue from 'vue'
-import App from './App.vue'
+import './plugins/vuetify'
+import Mainframe from './App.vue'
 import router from './router'
 
 Vue.config.productionTip = false
 
-new Vue({
+
+window.Mainframe = new Vue({
   router,
-  render: h => h(App)
-}).$mount('#app')
+  render: h => h(Mainframe)
+}).$mount('#app').$children[0].$children[0].$children[0];
